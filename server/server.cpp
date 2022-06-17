@@ -95,7 +95,7 @@ void EventSelector::Run()
             }
         }
         timeval time;
-        time.tv_sec = 20;
+        time.tv_sec = 60;
         time.tv_usec = 0;
         res = select(max_fd + 1, &rds, &wrs, 0, &time);
         if (res <= 0)
