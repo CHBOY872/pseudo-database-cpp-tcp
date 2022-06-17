@@ -36,7 +36,7 @@ For running a client please type in a terminal
 main_client <server ip>
 ```
 
-> Note: the ip of server is ip of your device in Internet.
+> Note: the ip of server is ip of your device in Internet in which your server is turning on.
 
 ## Work with programms
 
